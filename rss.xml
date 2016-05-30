@@ -4,7 +4,7 @@
         <description><![CDATA[Den Danske Skole e.V.]]></description>
         <link>https://thegrid.ai/dansk-skole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 18:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 18:45:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dansk-skole/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Mon, 30 May 2016 18:45:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Om os]]></title>
+            <description><![CDATA[<article><h1>Om os</h1><p>Den Danske Skole er et privat initiativ, grundlagt og drevet af dansksprogede familier bosat i München og omegn. </p></article>]]></description>
+            <link>https://thegrid.ai/dansk-skole/om-den-danske-skole/index.html</link>
+            <guid isPermaLink="false">ac6fa053-56a5-4811-93e4-7c14b0aef378</guid>
+            <pubDate>Mon, 30 May 2016 18:45:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ Impressum]]></title>
             <description><![CDATA[<article><h1> Impressum</h1><p> Verantwortlich für den Inhalt dieser Webseite nach §6 Teledienstgesetz (TDG): </p></article>]]></description>
             <link>https://thegrid.ai/dansk-skole/impressum/index.html</link>
             <guid isPermaLink="false">23f9cb6a-70a2-4976-b0aa-6be3b6997c2a</guid>
             <pubDate>Mon, 30 May 2016 18:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Om den danske skole]]></title>
-            <description><![CDATA[<p>Den Danske Skole er et privat initiativ, grundlagt og drevet af dansksprogede familier bosat i München og omegn. </p>]]></description>
-            <link>https://thegrid.ai/dansk-skole/om-den-danske-skole/index.html</link>
-            <guid isPermaLink="false">ac6fa053-56a5-4811-93e4-7c14b0aef378</guid>
-            <pubDate>Mon, 30 May 2016 18:37:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
