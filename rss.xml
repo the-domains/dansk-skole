@@ -4,8 +4,15 @@
         <description><![CDATA[Den Danske Skole e.V.]]></description>
         <link>https://thegrid.ai/dansk-skole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 18:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 18:54:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dansk-skole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Om os]]></title>
+            <description><![CDATA[<article><h1>Om os</h1><p>Den Danske Skole er et privat initiativ, grundlagt og drevet af dansksprogede familier bosat i München og omegn. </p></article>]]></description>
+            <link>https://thegrid.ai/dansk-skole/om-den-danske-skole/index.html</link>
+            <guid isPermaLink="false">ac6fa053-56a5-4811-93e4-7c14b0aef378</guid>
+            <pubDate>Mon, 30 May 2016 18:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dansk Skole i München]]></title>
             <description><![CDATA[<article><h1>Dansk Skole i München</h1><p> Kære danske familier i München og omegn,</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/dansk-skole/comenius-grundschule-kaflerstrasse-14-81241-munchen-pasin/index.html</link>
             <guid isPermaLink="false">d7a87f0a-bb76-4b96-a969-9dc309457f9a</guid>
             <pubDate>Mon, 30 May 2016 18:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Om os]]></title>
-            <description><![CDATA[<article><h1>Om os</h1><p>Den Danske Skole er et privat initiativ, grundlagt og drevet af dansksprogede familier bosat i München og omegn. </p></article>]]></description>
-            <link>https://thegrid.ai/dansk-skole/om-den-danske-skole/index.html</link>
-            <guid isPermaLink="false">ac6fa053-56a5-4811-93e4-7c14b0aef378</guid>
-            <pubDate>Mon, 30 May 2016 18:45:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ Impressum]]></title>
