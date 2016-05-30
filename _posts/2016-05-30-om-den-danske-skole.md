@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Den Danske Skole er et privat initiativ, grundlagt og drevet af dansksprogede familier bosat i München og omegn. '
-datePublished: '2016-05-30T18:37:38.568Z'
-dateModified: '2016-05-30T18:37:27.431Z'
-title: ''
+datePublished: '2016-05-30T18:45:36.965Z'
+dateModified: '2016-05-30T18:45:27.093Z'
+title: Om os
 author: []
 sourcePath: _posts/2016-05-30-om-den-danske-skole.md
 authors: []
@@ -17,11 +17,11 @@ url: om-den-danske-skole/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03794ff-2595-41eb-9621-257e71343ae0.jpg)
+# Om os
 
 Den Danske Skole er et privat initiativ, grundlagt og drevet af dansksprogede familier bosat i München og omegn. 
 
-Bortset fra lærerstaben, foregår arbejdet i Den Danske Skole på frivillig basis. Det er meget vigtig for os at månedsgebyrerne holdes så lave, at kun skolens reelle udgifter dækkes - beslutningen om at sende børn i Den Danske Skole skal ikke være en økonomisk overvejelse! 
+Bortset fra lærerstaben, foregår arbejdet i Den Danske Skole på frivillig basis. Det er meget vigtig for os at månedsgebyrerne holdes så lave, at kun skolens reelle udgifter dækkes - beslutningen om at sende børn i Den Danske Skole skal ikke være en økonomisk overvejelse! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d3ff1dc-b74f-4fb4-b495-cf963e783b65.jpg)
 
 Tanken bag Den Danske Skole er at skabe et forum, hvor danske børn (og deres forældre) kan mødes og 'være danske' sammen. 
 
