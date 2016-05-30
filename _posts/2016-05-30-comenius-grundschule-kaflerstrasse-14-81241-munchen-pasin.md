@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Comenius Grundschule  Kaflerstraße 14  81241 München (Pasing) '
-datePublished: '2016-05-30T18:44:49.875Z'
-dateModified: '2016-05-30T18:42:55.615Z'
+datePublished: '2016-05-30T18:45:55.449Z'
+dateModified: '2016-05-30T18:44:53.561Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-30-comenius-grundschule-kaflerstrasse-14-81241-munchen-pasin.md
