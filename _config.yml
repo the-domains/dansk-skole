@@ -1,0 +1,28 @@
+name: Dansk Skole
+favicon: null
+layout_spectrum: 0.27858499460853636
+typography_spectrum: 0.9580086388159543
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9574919724836946
+  lightness: 0.7904760888777673
+  saturation: 0.3709684028290212
+  rhythmicContrast: 0.5617399227339774
+purpose: []
