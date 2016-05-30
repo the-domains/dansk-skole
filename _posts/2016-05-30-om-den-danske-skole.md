@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Den Danske Skole er et privat initiativ, grundlagt og drevet af dansksprogede familier bosat i München og omegn. '
-datePublished: '2016-05-30T18:45:36.965Z'
-dateModified: '2016-05-30T18:45:27.093Z'
+datePublished: '2016-05-30T18:54:38.663Z'
+dateModified: '2016-05-30T18:53:58.812Z'
 title: Om os
 author: []
 sourcePath: _posts/2016-05-30-om-den-danske-skole.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: om-den-danske-skole/index.html
 _type: Article
 
